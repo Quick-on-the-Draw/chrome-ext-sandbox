@@ -4,7 +4,7 @@ const path = require('path');
 
 module.exports = {
     entry: {
-        popup: './src/components/Popup.jsx',
+        popup: './src/containers/Popup.jsx',
     },
     output: {
         path: path.resolve(__dirname, 'dist'),

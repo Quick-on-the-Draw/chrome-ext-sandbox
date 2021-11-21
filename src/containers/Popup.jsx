@@ -1,14 +1,15 @@
 import React from 'react';
 import { render } from 'react-dom';
+import Canvas from '../components/Canvas.jsx';
 
 const Popup = () => {
     return (
-        <main>
-            <h1>YOOOOO NICOLE</h1>
-            <button>Click</button>
-        </main>
+        <>
+            <Canvas />
+        </>
     );
 };
 
 render(<Popup />, document.getElementById('react-target'));
+
 export default Popup;
