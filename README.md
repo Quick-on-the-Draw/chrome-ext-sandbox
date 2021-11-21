@@ -1,2 +1,1 @@
-Code referenced:
-https://developer.chrome.com/docs/extensions/mv3/getstarted/
+Tutorial used: https://www.youtube.com/watch?v=8OCEfOKzpAw
